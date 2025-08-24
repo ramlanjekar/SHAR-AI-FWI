@@ -101,19 +101,6 @@ Our hybrid approach combines:
 - Efficient data loading and preprocessing
 - Transfer learning for cross-domain applications
 
-## 📋 Project Structure
-
-```
-subsurface-imaging/
-├── data/                   # Dataset and preprocessing
-├── models/                 # Model architectures
-├── training/              # Training scripts and configs
-├── evaluation/            # Evaluation metrics and tools
-├── notebooks/             # Jupyter notebooks for analysis
-├── utils/                 # Helper functions
-├── requirements.txt       # Dependencies
-└── README.md             # This file
-```
 
 ## 🔬 Research & Publications
 
@@ -121,7 +108,7 @@ This work builds upon cutting-edge research in computational geophysics and deep
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+We welcome contributions!
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -138,13 +125,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by real-world exploration challenges in the Sunderban delta region
 - Special thanks to the geophysics and machine learning communities
 - Data providers and competition organizers
-
-## 📞 Contact
-
-For questions, collaborations, or support:
-- 📧 Email: [your-email@domain.com]
-- 🐛 Issues: [GitHub Issues](https://github.com/your-repo/subsurface-imaging/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/your-repo/subsurface-imaging/discussions)
 
 ---
 
