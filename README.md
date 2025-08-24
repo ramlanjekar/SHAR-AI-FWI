@@ -101,11 +101,6 @@ Our hybrid approach combines:
 - Efficient data loading and preprocessing
 - Transfer learning for cross-domain applications
 
-
-## 🔬 Research & Publications
-
-This work builds upon cutting-edge research in computational geophysics and deep learning. See our [research page](docs/research.md) for detailed methodology and citations.
-
 ## 🤝 Contributing
 
 We welcome contributions!
