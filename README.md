@@ -1,4 +1,4 @@
-# Advancing Subsurface Imaging with Physics-Informed Machine Learning
+# Advancing Subsurface Imaging with Physics-Informed Machine Learning.
 
 
 ## 🌍 Overview
